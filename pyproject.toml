@@ -1,0 +1,13 @@
+[project]
+name = "bootcamp-machine-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Eric.W", email = "callmeew5@gmail.com" }
+]
+requires-python = ">=3.15"
+dependencies = []
+
+[tool.uv]
+package = false
